@@ -5,15 +5,15 @@ import { AiOutlineClose } from 'react-icons/ai'; // Importing a close icon from 
 const projects = [
   {
     title: 'Project 1',
-    description: 'Description of Project 1',
-    image: './src/assets/sundown.jpg',
-    video: './src/assets/sundown.mp4', // Path to project video
+    description: 'Sundown website',
+    image: '/sundown.jpg',
+    video: '/cuberto.mp4', // Path to project video
   },
   {
     title: 'Project 2',
-    description: 'Description of Project 2',
-    image: './src/assets/cuberto.jpg',
-    video: './src/assets/cuberto.mp4', // Path to project video
+    description: 'Cuberto website',
+    image: '/cuberto.jpg',
+    video: '/cuberto.mp4', // Path to project video
   },
 ];
 
