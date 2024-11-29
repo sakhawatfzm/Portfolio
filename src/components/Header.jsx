@@ -1,5 +1,5 @@
 import React from 'react';
-import cvFile from '../assets/mycv.pdf'; // Adjust this path to where your CV is stored
+import cvFile from '../assets/sakhawatcv.pdf'; // Adjust this path to where your CV is stored
 
 const Hero = () => {
   return (
